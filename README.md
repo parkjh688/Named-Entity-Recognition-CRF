@@ -1,5 +1,4 @@
 ## Named Entity Recognition using CRF in Python
----
 Conditional random fields (CRFs) 라이브러리인 [python-crfsuite](http://python-crfsuite.readthedocs.io/en/latest/index.html) 를 이용해서 named entity recognition 을 하는 코드입니다.
 
 
@@ -12,14 +11,12 @@ train, predict 를 하는 함수의 사용 방법 및 input, output 은 crf-exam
 
 
 
-#### Installation
----
+## Installation
 `$ pip install -r requirements.txt`
 
 
 
-#### Result
----
+## Result
 아래는 pandas 로 표현한 raw data 입니다.
 
 ![data](https://i.imgur.com/H7mToDE.png)
