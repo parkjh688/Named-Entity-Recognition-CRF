@@ -17,6 +17,7 @@ train, predict 를 하는 함수의 사용 방법 및 input, output 은 crf-exam
 - python-crfsuite
 - konlpy
 - pandas(jupyter 예제를 사용시에만)
+
 `$ pip install -r requirements.txt`
 
 
