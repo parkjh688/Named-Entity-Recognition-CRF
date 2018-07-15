@@ -11,13 +11,18 @@ train, predict 를 하는 함수의 사용 방법 및 input, output 은 crf-exam
 
 
 
-## Installation
+## Requirements
+### Libraries/code
+- python 3.5
+- python-crfsuite
+- konlpy
+- pandas(jupyter 예제를 사용시에만)
 `$ pip install -r requirements.txt`
 
 
 
 ## Result
-아래는 pandas 로 표현한 raw data 입니다. 🥪 🥤 
+아래는 pandas 로 표현한 raw data 입니다. 🥪 🥤
 
 ![data](https://i.imgur.com/H7mToDE.png)
 
