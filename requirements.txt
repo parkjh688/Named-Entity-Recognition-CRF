@@ -1,0 +1,4 @@
+python-crfsuite==0.9.5
+konlpy==0.4.4
+pandas==0.22.0
+
