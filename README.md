@@ -10,18 +10,20 @@ Conditional random fields (CRFs) 라이브러리인 [python-crfsuite](http://pyt
 POS-tagging 에는 konlpy 의 Twitter 를 사용하였습니다.
 train, predict 를 하는 함수의 사용 방법 및 input, output 은 crf-example.ipynb 파일을 참고하세요.
 
-<br>
+
+
 #### Installation
 ---
 `$ pip install -r requirements.txt`
 
-<br>
+
+
 #### Result
 ---
 아래는 pandas 로 표현한 raw data 입니다.
+
 ![data](https://i.imgur.com/H7mToDE.png)
 
-<br>
 
 train 후 crf 파일을 load 해서 test data 를 preict 해보면 아래와 같습니다.
 
