@@ -7,7 +7,7 @@ Conditional random fields (CRFs) 라이브러리인 [python-crfsuite](http://pyt
 
 
 POS-tagging 에는 konlpy 의 Twitter 를 사용하였습니다.
-train, predict 를 하는 함수의 사용 방법 및 input, output 은 crf-example.ipynb 파일을 참고하세요.
+train, predict 를 하는 함수의 사용 방법 및 input, output 은 example/crf_example.ipynb 파일을 참고하세요.
 
 
 
